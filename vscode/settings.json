@@ -112,7 +112,6 @@
   "typescript.implementationsCodeLens.showOnInterfaceMethods": true,
   "typescript.preferences.preferTypeOnlyAutoImports": true, // Prefer type-only imports in TypeScript
 
-
   // === HTML/Markdown Settings ===
   "html.format.unformatted": "",
   "markdown.updateLinksOnFileMove.enabled": "prompt", // Prompt when updating links on file move
