@@ -77,7 +77,6 @@ plugins=(
   ssh
   macos
   fzf
-  bat
   zsh-autosuggestions
 )
 
